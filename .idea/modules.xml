@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/PaperPlagiarismDetection.iml" filepath="$PROJECT_DIR$/PaperPlagiarismDetection.iml" />
-      <module fileurl="file://$PROJECT_DIR$/pom.iml" filepath="$PROJECT_DIR$/pom.iml" />
     </modules>
   </component>
 </project>

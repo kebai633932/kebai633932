@@ -1,1 +1,1 @@
-C:\Users\86133\Desktop\java\PaperPlagiarismDetection\testFiles\orig.txtºÍC:\Users\86133\Desktop\java\PaperPlagiarismDetection\testFiles\orig_0.8_add.txtµÄÏàËÆ¶È: 82.81%
+ç›¸ä¼¼åº¦ between org.txt and file5: 90.63%

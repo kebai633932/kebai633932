@@ -1,5 +1,3 @@
-package main.utils;
-
 import java.math.BigInteger;
 
 public class SimHashUtils {
