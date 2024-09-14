@@ -9,40 +9,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5ea3e440-807c-487c-b542-5c893f87f6e2" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/PaperPlagiarismDetection_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PaperPlagiarismDetection.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PaperPlagiarismDetection.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/utils/SimHashUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/utils/TxtIOUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/MainTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/utils/SimHashUtilsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/utils/TxtIOUtilsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/main/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/main/utils/SimHashUtils.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/main/utils/TxtIOUtils.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/test/MainTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/test/utils/SimHashUtilsTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/test/utils/TxtIOUtilsTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testFiles/ans.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testFiles/orig.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testFiles/orig_0.8_add.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testFiles/orig_0.8_del.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testFiles/orig_0.8_dis_1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testFiles/orig_0.8_dis_10.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testFiles/orig_0.8_dis_15.txt" afterDir="false" />
+    <list default="true" id="5ea3e440-807c-487c-b542-5c893f87f6e2" name="更改" comment="第一次提交-代码版本1.0">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/utils/SimHashUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/utils/SimHashUtils.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -144,8 +113,17 @@
       <option name="presentableId" value="Default" />
       <updated>1726240084593</updated>
       <workItem from="1726240085707" duration="2770000" />
-      <workItem from="1726243080334" duration="8115000" />
+      <workItem from="1726243080334" duration="9456000" />
     </task>
+    <task id="LOCAL-00001" summary="第一次提交-代码版本1.0">
+      <option name="closed" value="true" />
+      <created>1726292274405</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1726292274405</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -164,6 +142,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="第一次提交-代码版本1.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="第一次提交-代码版本1.0" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

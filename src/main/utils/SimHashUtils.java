@@ -1,7 +1,6 @@
 package main.utils;
 
 import java.math.BigInteger;
-import java.util.List;
 
 public class SimHashUtils {
 
