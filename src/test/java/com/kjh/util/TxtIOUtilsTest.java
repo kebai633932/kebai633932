@@ -1,4 +1,6 @@
+package test.java.com.kjh.util;
 
+import main.java.com.kjh.util.TxtIOUtils;
 import org.junit.Test;
 import java.io.IOException;
 import static org.junit.Assert.*;

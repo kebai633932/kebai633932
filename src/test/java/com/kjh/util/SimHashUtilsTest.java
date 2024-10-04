@@ -1,3 +1,6 @@
+package test.java.com.kjh.util;
+
+import main.java.com.kjh.util.SimHashUtils;
 import org.junit.Test;
 import java.math.BigInteger;
 import static org.junit.Assert.*;

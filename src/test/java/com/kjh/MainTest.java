@@ -1,5 +1,8 @@
+package test.java.com.kjh;
+
+import main.java.com.kjh.util.SimHashUtils;
+import main.java.com.kjh.util.TxtIOUtils;
 import org.junit.Test;
-import static org.junit.Assert.*;
 import java.io.IOException;
 
 public class MainTest {

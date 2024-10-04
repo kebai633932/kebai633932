@@ -9,25 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5ea3e440-807c-487c-b542-5c893f87f6e2" name="更改" comment="第二次提交-代码版本2.0">
-      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/main/MainTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/META-INF/MANIFEST.MF" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/main/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/utils/SimHashUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/main/SimHashUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/utils/TxtIOUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/main/TxtIOUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/MainTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/utils/SimHashUtilsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/main/SimHashUtilsTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/utils/TxtIOUtilsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/main/TxtIOUtilsTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testFiles/ans.txt" beforeDir="false" afterPath="$PROJECT_DIR$/testFiles/ans.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testFiles/orig.txt" beforeDir="false" afterPath="$PROJECT_DIR$/testFiles/orig.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testFiles/orig_0.8_add.txt" beforeDir="false" afterPath="$PROJECT_DIR$/testFiles/orig_0.8_add.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testFiles/orig_0.8_del.txt" beforeDir="false" afterPath="$PROJECT_DIR$/testFiles/orig_0.8_del.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testFiles/orig_0.8_dis_1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/testFiles/orig_0.8_dis_1.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testFiles/orig_0.8_dis_10.txt" beforeDir="false" afterPath="$PROJECT_DIR$/testFiles/orig_0.8_dis_10.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testFiles/orig_0.8_dis_15.txt" beforeDir="false" afterPath="$PROJECT_DIR$/testFiles/orig_0.8_dis_15.txt" afterDir="false" />
-    </list>
+    <list default="true" id="5ea3e440-807c-487c-b542-5c893f87f6e2" name="更改" comment="第三次提交-代码版本3.0，代码初步优化" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -71,12 +53,12 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "Downloaded.Files.Path.Enabled": "false",
     "JUnit.<默认>.executor": "Run",
-    "JUnit.MainTest.executor": "Coverage",
+    "JUnit.MainTest.executor": "Run",
     "JUnit.PaperPlagiarismDetection中的所有 (1).executor": "Coverage",
     "JUnit.PaperPlagiarismDetection中的所有 (2).executor": "JProfiler",
     "JUnit.PaperPlagiarismDetection中的所有 (3).executor": "JProfiler",
     "JUnit.PaperPlagiarismDetection中的所有 (4).executor": "Run",
-    "JUnit.PaperPlagiarismDetection中的所有.executor": "Coverage",
+    "JUnit.PaperPlagiarismDetection中的所有.executor": "Profiler#1",
     "JUnit.SimHashUtilsTest (1).executor": "Run",
     "JUnit.SimHashUtilsTest.executor": "Run",
     "Maven. [clean].executor": "Run",
@@ -91,7 +73,7 @@
     "git-widget-placeholder": "main",
     "jdk.selected.JAVA_MODULE": "11",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/86133/Desktop/java/PaperPlagiarismDetection/src/main/main/Main.java",
+    "last_opened_file_path": "C:/Users/86133/Desktop/java/PaperPlagiarismDetection",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -109,6 +91,8 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\86133\Desktop\java\PaperPlagiarismDetection\src\test\java\com\kjh\util" />
+      <recent name="C:\Users\86133\Desktop\java\PaperPlagiarismDetection\src\main\java\com\kjh\util" />
       <recent name="C:\Users\86133\Desktop\java\PaperPlagiarismDetection\src\main" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -116,7 +100,7 @@
       <recent name="test" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.PaperPlagiarismDetection中的所有">
+  <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="PaperPlagiarismDetection" />
@@ -159,8 +143,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.PaperPlagiarismDetection中的所有" />
         <item itemvalue="JUnit.MainTest" />
+        <item itemvalue="JUnit.PaperPlagiarismDetection中的所有" />
         <item itemvalue="JUnit.PaperPlagiarismDetection中的所有 (4)" />
         <item itemvalue="应用程序.Main" />
         <item itemvalue="JUnit.PaperPlagiarismDetection中的所有 (3)" />
@@ -184,7 +168,17 @@
       <workItem from="1726312803572" duration="493000" />
       <workItem from="1726313316937" duration="5741000" />
       <workItem from="1726319119368" duration="6494000" />
-      <workItem from="1726326877934" duration="1190000" />
+      <workItem from="1726326877934" duration="1523000" />
+      <workItem from="1726409184125" duration="802000" />
+      <workItem from="1727065061957" duration="3637000" />
+      <workItem from="1727137079946" duration="810000" />
+      <workItem from="1727232009349" duration="1046000" />
+      <workItem from="1727271909089" duration="1067000" />
+      <workItem from="1727334632074" duration="2411000" />
+      <workItem from="1727366293029" duration="601000" />
+      <workItem from="1727403104312" duration="1167000" />
+      <workItem from="1727434314384" duration="599000" />
+      <workItem from="1728008837032" duration="1072000" />
     </task>
     <task id="LOCAL-00001" summary="第一次提交-代码版本1.0">
       <option name="closed" value="true" />
@@ -210,7 +204,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726320532685</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="第三次提交-代码版本3.0，代码初步优化">
+      <option name="closed" value="true" />
+      <created>1726328349041</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1726328349041</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -231,7 +233,8 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="第一次提交-代码版本1.0" />
     <MESSAGE value="第二次提交-代码版本2.0" />
-    <option name="LAST_COMMIT_MESSAGE" value="第二次提交-代码版本2.0" />
+    <MESSAGE value="第三次提交-代码版本3.0，代码初步优化" />
+    <option name="LAST_COMMIT_MESSAGE" value="第三次提交-代码版本3.0，代码初步优化" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -247,6 +250,7 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PaperPlagiarismDetection$PaperPlagiarismDetection__1_.ic" NAME="PaperPlagiarismDetection中的所有 (1) 覆盖结果" MODIFIED="1726324205641" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/PaperPlagiarismDetection$PaperPlagiarismDetection__4_.ic" NAME="PaperPlagiarismDetection中的所有 (4) 覆盖结果" MODIFIED="1726320753281" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/PaperPlagiarismDetection$MainTest.ic" NAME="MainTest 覆盖结果" MODIFIED="1726328077857" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/PaperPlagiarismDetection$PaperPlagiarismDetection.ic" NAME="PaperPlagiarismDetection中的所有 覆盖结果" MODIFIED="1726325178346" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>

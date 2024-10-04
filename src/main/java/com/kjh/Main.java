@@ -1,3 +1,8 @@
+package main.java.com.kjh;
+
+import main.java.com.kjh.util.SimHashUtils;
+import main.java.com.kjh.util.TxtIOUtils;
+
 import java.io.IOException;
 
 public class Main {

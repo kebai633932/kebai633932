@@ -1,3 +1,5 @@
+package main.java.com.kjh.util;
+
 import java.math.BigInteger;
 
 public class SimHashUtils {
